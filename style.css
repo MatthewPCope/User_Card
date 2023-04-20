@@ -1,0 +1,54 @@
+.wrapper{
+    width:740px;
+    height: 360px;
+    background-color:white;
+    margin:0px auto;
+    margin-top: 80px;
+    border: 3px solid#c1c1c1;
+
+}
+
+.header{
+    width: 740x;
+    height:100px;
+    background-color:#18a2b8;
+    
+}
+.picture{
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 3px solid white;
+    border-radius: 100px;
+    outline: 3px solid #c1c1c1;
+}
+h1{
+    margin-left: 50px;
+    margin-top: 60px;
+    font-family: comic sans MS;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+.pic, .pic_2 {
+    width:20px;
+    height:20px;
+    margin-left: 50px;
+}
+.seattle{
+    font-family: comic sans MS;
+    text-decoration: none;
+    color:black;
+    margin-left: 5px;
+
+}
+p{
+    margin-left:50px;
+    font-family: comic sans MS;
+}
+.edit_profile{
+    font-family: comic sans MS;
+    margin-left:5px;
+    color: #3a81e6; 
+    text-decoration: underline;
+}
